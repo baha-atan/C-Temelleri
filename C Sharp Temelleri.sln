@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.1738
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C Sharp Temelleri", "C Sharp Temelleri\C Sharp Temelleri.csproj", "{078E5255-5ABF-4F03-9FEA-1D9898D05DBB}"
 EndProject
@@ -17,9 +17,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders 0.4", "Ders 0.4\Ders 0
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders 0.5", "Ders 0.5\Ders 0.5.csproj", "{22B8141E-A78E-4682-AB8A-ACE02C2DD439}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders 0.6", "Ders 0.6\Ders 0.6.csproj", "{2D416B1E-BAA0-4FE5-9022-75F74BBEF2D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders 0.6", "Ders 0.6\Ders 0.6.csproj", "{2D416B1E-BAA0-4FE5-9022-75F74BBEF2D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders 0.7", "Ders 0.7\Ders 0.7.csproj", "{A92BA86E-CD22-49C1-9E94-576A65F37774}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders 0.7", "Ders 0.7\Ders 0.7.csproj", "{A92BA86E-CD22-49C1-9E94-576A65F37774}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders 0.8", "Ders 0.8\Ders 0.8.csproj", "{C9014701-6987-4AD8-ACB5-BC51B9F55802}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders 0.9", "Ders 0.9\Ders 0.9.csproj", "{3937BE82-CD7E-4343-BBE8-D6EF37078059}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,14 @@ Global
 		{A92BA86E-CD22-49C1-9E94-576A65F37774}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A92BA86E-CD22-49C1-9E94-576A65F37774}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A92BA86E-CD22-49C1-9E94-576A65F37774}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9014701-6987-4AD8-ACB5-BC51B9F55802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9014701-6987-4AD8-ACB5-BC51B9F55802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9014701-6987-4AD8-ACB5-BC51B9F55802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9014701-6987-4AD8-ACB5-BC51B9F55802}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3937BE82-CD7E-4343-BBE8-D6EF37078059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3937BE82-CD7E-4343-BBE8-D6EF37078059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3937BE82-CD7E-4343-BBE8-D6EF37078059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3937BE82-CD7E-4343-BBE8-D6EF37078059}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
