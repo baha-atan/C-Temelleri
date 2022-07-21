@@ -1,14 +1,14 @@
-﻿using Entities.Abstract;
+﻿using Core.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq.Expressions;
 using System.Text;
 
-namespace DataAccess.Abstract
+namespace Core.DataAccess
 {
 	//Generic Constraint
 	//Class : refarans tip
-	//IEntity : IEntity olabilir veya impşemente eden bir nesne olabilir 
+	//IEntity : IEntity olabilir veya implemente eden bir nesne olabilir 
 	//new() : new'lenebilir olmalı
 	public interface IEntityRepository<T> where T:class,IEntity,new()
 	{
